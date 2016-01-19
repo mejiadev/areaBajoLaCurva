@@ -1,0 +1,8 @@
+ 
+// Programa que calcula el área bajo la curva (1/(σ sqrt(2π)))e^((-1/2)((x-µ)/σ)))² dx
+// ESCUELA SUPERIOR DE CÓMPUTO 
+// Cálculo Aplicado
+//Prof. Montiel
+//Autor: Javier Mejía Pérez
+// 1CV16
+// @24SEP2012
